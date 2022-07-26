@@ -3,7 +3,7 @@
 
 I am very Excited to tell that i have successfully completed my third project and this time I am getting more confidence. 
 
-![First_Project](./preview.png)
+
 
 
 ## What I have learnt in this Project
@@ -15,5 +15,13 @@ I am very Excited to tell that i have successfully completed my third project an
 ## Time Spent on this project
 
 - I am so excited to do more projects because I my time is decreasing day by day and this project tooks me 2 hrs only to do so...
+
+[](https://62e001ed294be40e2c6bb2e4--rohankaushikproject3.netlify.app/)
+
+![First_Project](./preview.png)
+
+[![Deployed-link](https://img.shields.io/badge/Deployed-Link%20-yellow.svg)](https://62e001ed294be40e2c6bb2e4--rohankaushikproject3.netlify.app/)
+
+
 
 
