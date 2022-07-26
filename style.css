@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+html{
+    padding: 30px;
+}
+
+*{
+    font-family: Ubuntu;
+}
+[alt="brand-logo"]
+{
+    width:90px;
+    
+}
+
+ul{
+    list-style-type: none;
+    position: absolute;
+    top:20px;
+    left:140px;
+}
+
+
+
+.list-item{
+    float: left;
+    padding: 2px;
+    margin: 6px;
+    color: rgb(175, 174, 174) ;
+}
+
+.list-item:hover{
+    color: rgb(44, 40, 40);
+    font-size: 18px;
+}
+
+.nav-button:not(.btn){
+    position: absolute;
+    top: 50px;
+    right: 70px;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(88, 81, 133);
+    border: none;
+    border-radius: 8px;
+    color: rgb(245, 244, 244);
+    font-weight: bold;
+}
+.nav-button.btn:hover{
+    background-color: rgb(91, 91, 192);
+    border: 2px solid rgb(214, 199, 199);
+}
+.nav-button:hover{
+    background-color: rgb(91, 91, 192);
+    border: 2px solid rgb(214, 199, 199);
+}
+[alt="illustration"]{
+    position: absolute;
+    top: 100px;
+    right: 30px;
+    width: 100vh;
+}
+
+h1{
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    font-size: 70px;
+    width: 500px;
+    text-align: left;
+    color: rgb(76, 43, 109);
+}
+
+h1>span{
+    color: rgb(121, 33, 202);
+}
+.description{
+    position: absolute;
+    top: 360px;
+    left: 150px;
+    font-size: 20px;
+    width: 500px;
+    text-align: left;
+    color: rgb(185, 185, 207);   
+}
+
+.nav-button.btn{
+    position: absolute;
+    top: 490px;
+    left: 230px;
+    height: 30px;
+    width: 200px;
+    background-color: rgb(88, 81, 133);
+    border: none;
+    border-radius: 8px;
+    color: rgb(245, 244, 244);
+    font-weight: bold;
+}
+
